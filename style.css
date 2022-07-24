@@ -1,0 +1,225 @@
+.banner {
+    background-image: url(help-2.avif);
+    border:1px solid wheat;
+    background-size: 100% 100%;
+    height: 700px;
+    width: 100%;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 40px 40px 40px;
+}
+
+h1 {
+    color: black;
+    text-align: center; 
+}
+
+h3 {
+    color: gold;
+    text-align: center;
+}
+
+.button {
+    background-color: red;
+    text-align: center;
+    padding:  15px 15px 15px 15px;
+    border-radius: 10px;
+}
+#donate-plan{
+    margin-top: 30px;
+    border: 5px solid;
+    text-align: center;
+
+}
+
+h6 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.child-1 {
+    min-height: 60px;
+    width: 68px;
+    background-color: white;
+    border: 1px solid honeydew;
+    text-align: center;
+    color: black;
+    padding-top: 30px;
+}
+
+.child-2 {
+    min-height: 60px;
+    width: 68px;
+    background-color: gray;
+    border: 1px solid;
+    text-align: center;
+    color: red;
+    padding-top: 30px;
+
+}
+
+.child-3 {
+    min-height: 60px;
+    width: 68px;
+    background-color: white;
+    border: 1px solid honeydew;
+    text-align: center;
+    color: black;
+    padding-top: 30px;
+}
+
+.child-4 {
+    min-height: 60px;
+    width: 68px;
+    background-color: white;
+    border: 1px solid honeydew;
+    text-align: center;
+    color: black;
+    padding-top: 30px;
+}
+
+.child-5 {
+    min-height: 60px;
+    width: 68px;
+    background-color: white;
+    border: 1px solid honeydew;
+    text-align: center;
+    color: black;
+    padding-top: 30px;
+}
+.btn{
+    border: 0px solid;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 380px;
+}
+.section-two {
+    margin-top: 70px;
+    padding: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card1 {
+    width: 350px;
+    height: 200px;
+    border: 1px solid gray;
+    box-shadow: 10px gray;
+    padding: 20px;
+    background-color: lightblue;
+}
+
+.card2 {
+    width: 350px;
+    height: 200px;
+    border: 1px solid crimson;
+    box-shadow: 10px wheat;
+    padding: 20px;
+    background-color: rgb(189, 185, 179);
+}
+
+.card3 {
+    width: 350px;
+    height: 200px;
+    border: 1px solid crimson;
+    box-shadow: 10px 15px 16px cornsilk;
+    padding: 20px;
+    background-color: antiquewhite;
+}
+
+.banner-container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 90%;
+    height: 80%;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.banner-description {
+    text-align: center;
+    border: 0px solid black;
+    margin: 20px 50px 20px;
+    padding: 20px 20px 20px;
+    
+}
+
+.banner-right {
+    margin-right: 50px;
+}
+
+.banner-fixed {
+    display: flex;
+    justify-content: space-evenly;
+    width: 90%;
+    height: 80%;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.banner-light {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.banner-describe{
+        text-align: center;
+        border: 0px solid black;
+        margin: 20px 50px 20px;
+        padding: 20px 20px 20px;
+}
+.banner-humble {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.box {
+    text-align: center;
+    background-position: center;
+}
+
+.link {
+    border: 1px solid chocolate;
+    height: 80px;
+    width: 500px;
+    display: flex;
+    margin: 40px 350px 0px 350px;
+    padding: 80px 100px 70px ;
+    background-color: bisque;
+
+}
+
+.mail {
+    text-align: center;
+    height: 30px;
+    width: 200px;
+    background-color: azure;
+    color: black;
+
+}
+.sub {
+    text-align: center;
+    height: 30px;
+    width: 120px;
+    background-color: azure;
+    color: black;
+    background-color: red;
+
+}
+
+.top {
+    background-color: black;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.hello {
+    color: bisque;
+}
